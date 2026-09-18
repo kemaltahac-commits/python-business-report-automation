@@ -1,0 +1,151 @@
+OrderID,Customer,Product,Region,OrderDate,Quantity,Sales
+1001,Customer 01,Webcam,North,2026-01-05,5,425.95
+1002,Customer 18,Webcam,North,2026-01-02,2,189.51
+1003,Customer 07,Laptop Stand,North,2026-01-01,4,266.93
+1004,Customer 18,Monitor,South,2026-01-19,7,1577.58
+1005,Customer 06,Keyboard,North,2026-01-05,7,375.71
+1006,Customer 04,Wireless Mouse,East,2026-01-12,2,69.17
+1007,Customer 20,Headset,East,2026-01-24,5,447.78
+1008,Customer 13,USB-C Hub,North,2026-01-27,2,156.15
+1009,Customer 19,Webcam,East,2026-01-02,4,391.65
+1010,Customer 10,Webcam,South,2026-01-28,2,204.17
+1011,Customer 09,Laptop Stand,West,2026-01-12,8,554.7
+1012,Customer 12,Wireless Mouse,East,2026-01-23,4,150.83
+1013,Customer 20,Webcam,North,2026-01-08,3,279.58
+1014,Customer 13,Wireless Mouse,West,2026-01-21,5,205.72
+1015,Customer 11,Webcam,South,2026-01-02,1,84.75
+1016,Customer 13,Headset,East,2026-01-19,5,356.64
+1017,Customer 07,Webcam,East,2026-01-21,8,714.89
+1018,Customer 09,USB-C Hub,South,2026-01-18,3,213.09
+1019,Customer 19,Monitor,East,2026-01-13,7,1927.52
+1020,Customer 05,Keyboard,South,2026-01-02,8,395.65
+1021,Customer 05,Headset,North,2026-01-14,3,267.56
+1022,Customer 13,Monitor,North,2026-01-15,7,1771.54
+1023,Customer 18,Monitor,East,2026-01-04,1,259.3
+1024,Customer 11,Webcam,East,2026-01-06,2,173.07
+1025,Customer 09,USB-C Hub,North,2026-01-04,3,231.16
+1026,Customer 17,Headset,East,2026-02-25,4,301.01
+1027,Customer 20,Wireless Mouse,North,2026-02-04,6,219.75
+1028,Customer 08,Keyboard,East,2026-02-19,1,53.26
+1029,Customer 16,Laptop Stand,North,2026-02-18,2,156.07
+1030,Customer 05,Headset,South,2026-02-06,8,762.08
+1031,Customer 07,Keyboard,West,2026-02-13,4,245.76
+1032,Customer 15,Webcam,East,2026-02-08,8,670.04
+1033,Customer 01,Laptop Stand,East,2026-02-01,4,280.24
+1034,Customer 08,Laptop Stand,North,2026-02-28,2,153.1
+1035,Customer 17,Keyboard,North,2026-02-16,4,215.65
+1036,Customer 19,Wireless Mouse,South,2026-02-16,8,271.33
+1037,Customer 07,Headset,West,2026-02-14,2,147.69
+1038,Customer 14,Keyboard,West,2026-02-02,8,512.43
+1039,Customer 02,Webcam,North,2026-02-26,7,706.79
+1040,Customer 08,Headset,North,2026-02-15,4,304.77
+1041,Customer 06,Wireless Mouse,West,2026-02-28,5,181.69
+1042,Customer 18,Laptop Stand,West,2026-02-18,2,118.1
+1043,Customer 03,Headset,North,2026-02-16,4,302.36
+1044,Customer 13,USB-C Hub,South,2026-02-01,1,70.83
+1045,Customer 15,USB-C Hub,East,2026-02-24,5,384.66
+1046,Customer 05,Headset,West,2026-02-02,4,315.51
+1047,Customer 11,Monitor,North,2026-02-16,1,217.99
+1048,Customer 02,Monitor,South,2026-02-03,2,557.12
+1049,Customer 08,Monitor,North,2026-02-19,7,1562.84
+1050,Customer 20,Wireless Mouse,North,2026-02-19,2,71.72
+1051,Customer 09,Monitor,East,2026-03-11,4,1084.55
+1052,Customer 13,Wireless Mouse,East,2026-03-10,3,118.69
+1053,Customer 03,USB-C Hub,East,2026-03-19,1,79.62
+1054,Customer 18,Laptop Stand,North,2026-03-05,4,279.99
+1055,Customer 08,Keyboard,North,2026-03-15,6,331.87
+1056,Customer 20,Headset,East,2026-03-18,1,90.33
+1057,Customer 05,Keyboard,North,2026-03-04,5,261.52
+1058,Customer 09,Webcam,South,2026-03-23,5,498.96
+1059,Customer 09,Keyboard,South,2026-03-28,8,437.68
+1060,Customer 14,Laptop Stand,North,2026-03-11,5,301.59
+1061,Customer 09,Headset,South,2026-03-18,3,276.67
+1062,Customer 18,Webcam,West,2026-03-23,1,85.48
+1063,Customer 12,Wireless Mouse,North,2026-03-02,3,110.5
+1064,Customer 02,Keyboard,East,2026-03-08,6,323.89
+1065,Customer 12,Webcam,North,2026-03-24,7,773.52
+1066,Customer 06,Wireless Mouse,South,2026-03-01,3,125.79
+1067,Customer 14,Wireless Mouse,East,2026-03-26,4,139.97
+1068,Customer 13,Webcam,North,2026-03-08,1,107.16
+1069,Customer 12,Wireless Mouse,West,2026-03-28,5,206.22
+1070,Customer 01,Wireless Mouse,South,2026-03-09,4,145.92
+1071,Customer 09,Headset,North,2026-03-13,6,537.9
+1072,Customer 01,Webcam,East,2026-03-09,2,215.39
+1073,Customer 02,Wireless Mouse,East,2026-03-12,2,77.43
+1074,Customer 14,Webcam,East,2026-03-19,2,186.84
+1075,Customer 02,Wireless Mouse,East,2026-03-26,7,224.0
+1076,Customer 12,Monitor,South,2026-04-22,7,1609.59
+1077,Customer 04,Keyboard,East,2026-04-22,5,303.15
+1078,Customer 13,USB-C Hub,East,2026-04-07,5,419.23
+1079,Customer 06,USB-C Hub,West,2026-04-27,5,400.88
+1080,Customer 10,Laptop Stand,East,2026-04-19,4,279.98
+1081,Customer 15,Monitor,East,2026-04-07,8,2075.35
+1082,Customer 06,Monitor,West,2026-04-22,2,493.75
+1083,Customer 03,Webcam,East,2026-04-08,4,416.53
+1084,Customer 05,Headset,South,2026-04-16,1,76.02
+1085,Customer 15,Monitor,North,2026-04-19,7,2062.07
+1086,Customer 16,Wireless Mouse,West,2026-04-21,7,248.8
+1087,Customer 04,Webcam,North,2026-04-26,7,634.55
+1088,Customer 02,Webcam,West,2026-04-04,4,445.6
+1089,Customer 15,USB-C Hub,South,2026-04-15,6,561.83
+1090,Customer 18,Monitor,West,2026-04-24,8,2363.67
+1091,Customer 15,Headset,West,2026-04-27,5,473.23
+1092,Customer 17,Webcam,East,2026-04-09,8,822.12
+1093,Customer 10,USB-C Hub,North,2026-04-11,4,307.4
+1094,Customer 05,Monitor,North,2026-04-23,3,728.15
+1095,Customer 03,Wireless Mouse,South,2026-04-18,7,262.03
+1096,Customer 02,USB-C Hub,West,2026-04-13,4,362.96
+1097,Customer 19,Headset,North,2026-04-12,7,611.75
+1098,Customer 14,Keyboard,West,2026-04-09,4,241.15
+1099,Customer 01,USB-C Hub,West,2026-04-22,7,549.11
+1100,Customer 06,Headset,West,2026-04-20,8,792.61
+1101,Customer 13,Monitor,North,2026-05-14,1,236.3
+1102,Customer 06,Wireless Mouse,West,2026-05-11,1,36.54
+1103,Customer 11,Wireless Mouse,West,2026-05-13,6,254.76
+1104,Customer 09,Keyboard,West,2026-05-24,2,122.65
+1105,Customer 12,Monitor,North,2026-05-25,4,1128.65
+1106,Customer 01,Webcam,North,2026-05-01,4,368.47
+1107,Customer 08,Monitor,South,2026-05-04,3,803.58
+1108,Customer 15,Monitor,South,2026-05-06,5,1458.09
+1109,Customer 06,Monitor,North,2026-05-01,5,1191.28
+1110,Customer 13,Keyboard,West,2026-05-23,4,216.02
+1111,Customer 04,Headset,South,2026-05-20,5,497.29
+1112,Customer 19,Headset,North,2026-05-14,1,85.87
+1113,Customer 03,Webcam,East,2026-05-14,6,518.68
+1114,Customer 04,Headset,West,2026-05-21,7,717.09
+1115,Customer 05,Headset,West,2026-05-17,7,568.79
+1116,Customer 20,Webcam,East,2026-05-27,8,801.46
+1117,Customer 11,Webcam,East,2026-05-03,4,445.18
+1118,Customer 08,Keyboard,West,2026-05-22,8,505.37
+1119,Customer 01,USB-C Hub,East,2026-05-06,8,746.07
+1120,Customer 12,USB-C Hub,South,2026-05-20,5,401.67
+1121,Customer 18,Webcam,East,2026-05-07,1,101.76
+1122,Customer 14,Laptop Stand,South,2026-05-08,8,594.68
+1123,Customer 16,Webcam,West,2026-05-03,8,881.18
+1124,Customer 13,Keyboard,South,2026-05-19,4,233.11
+1125,Customer 18,Keyboard,West,2026-05-24,6,362.95
+1126,Customer 12,Monitor,East,2026-06-09,8,2056.26
+1127,Customer 07,Wireless Mouse,North,2026-06-18,6,213.94
+1128,Customer 07,Headset,South,2026-06-09,4,394.34
+1129,Customer 04,Webcam,East,2026-06-12,4,388.69
+1130,Customer 01,Wireless Mouse,East,2026-06-02,3,112.57
+1131,Customer 05,Monitor,East,2026-06-01,8,1944.75
+1132,Customer 16,Monitor,East,2026-06-06,8,2168.57
+1133,Customer 16,Laptop Stand,East,2026-06-13,2,163.95
+1134,Customer 19,USB-C Hub,North,2026-06-26,1,77.24
+1135,Customer 03,Monitor,East,2026-06-25,4,977.63
+1136,Customer 17,USB-C Hub,South,2026-06-15,7,594.79
+1137,Customer 10,Keyboard,West,2026-06-24,1,65.33
+1138,Customer 07,Laptop Stand,South,2026-06-06,5,391.74
+1139,Customer 18,Wireless Mouse,South,2026-06-14,2,72.21
+1140,Customer 10,USB-C Hub,West,2026-06-23,1,79.3
+1141,Customer 03,Keyboard,West,2026-06-26,4,285.17
+1142,Customer 14,Headset,South,2026-06-21,2,186.46
+1143,Customer 05,Wireless Mouse,East,2026-06-26,2,69.87
+1144,Customer 15,Keyboard,East,2026-06-10,2,125.31
+1145,Customer 09,Webcam,West,2026-06-20,8,812.54
+1146,Customer 11,Laptop Stand,West,2026-06-08,5,320.59
+1147,Customer 09,Webcam,North,2026-06-06,1,111.67
+1148,Customer 09,USB-C Hub,West,2026-06-14,3,297.33
+1149,Customer 03,Webcam,West,2026-06-11,8,790.23
+1150,Customer 06,Keyboard,North,2026-06-16,6,369.44
